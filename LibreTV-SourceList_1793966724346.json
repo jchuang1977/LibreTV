@@ -1,0 +1,53 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 2,
+  "exportedAt": 1793966724345,
+  "sources": [
+    {
+      "name": "電影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "360",
+      "url": "https://360zyzz.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "茅台",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡",
+      "url": "https://api.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴風",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "如意",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "ikun",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "貓眼",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "量子",
+      "url": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
